@@ -1,0 +1,15 @@
+{
+  "name": "E-PUSDA WS Bondoyudo Baru",
+  "short_name": "E-PUSDA",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1b3e",
+  "theme_color": "#0d1b3e",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/tpopbwi/presensi-pusda/main/assets/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
